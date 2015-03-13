@@ -1,0 +1,9 @@
+{
+	"interval": 300,
+	"owner": "kinodjnz",
+	"repositories": [
+		"notify_unmergeable",
+	],
+	"chatwork-token": "chatwork token",
+	"chatwork-room-no": "chatwork room number"
+}
